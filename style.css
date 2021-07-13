@@ -181,6 +181,9 @@ span{
 }
 
 @media only screen and (max-width:688px) {
+    .banner{
+        padding-left: 2vw ;
+    }
     .players,.blogs,.courses{
         display: grid;
         grid-template-columns: repeat(1,1fr);
