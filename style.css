@@ -186,6 +186,15 @@ span{
         grid-template-columns: repeat(1,1fr);
         grid-row-gap: 35px;
     }
+    .blog{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0vw;
+    }
+    .courses{
+        margin-left: 3vw;
+    }
     
 }
 @media (min-width:689px) and (max-width:992px) {
